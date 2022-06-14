@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCVERIF5_Send Verification with invalid url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8623283-9e58-4dbd-9843-b09b94743c1c</testCaseGuid>
+</TestCaseEntity>

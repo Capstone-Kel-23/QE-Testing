@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCUSRLIST1_Get list all user with valid token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7da36f1e-cbfe-4024-85c6-cbfeecef866d</testCaseGuid>
+</TestCaseEntity>

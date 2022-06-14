@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCLOG3_Login with empty email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c74727a1-a8ff-44f4-abdd-c45858153ce0</testCaseGuid>
+</TestCaseEntity>

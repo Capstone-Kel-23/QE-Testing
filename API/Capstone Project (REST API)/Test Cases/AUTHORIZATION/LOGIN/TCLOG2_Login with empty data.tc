@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCLOG2_Login with empty data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>565302c6-0eeb-42e3-b6e7-39ced75ad810</testCaseGuid>
+</TestCaseEntity>
