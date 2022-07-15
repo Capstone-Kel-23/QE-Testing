@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV14_Get list invoices by status unpaid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2df84edc-c7ea-4949-92e3-08d483794e08</testCaseGuid>
+</TestCaseEntity>

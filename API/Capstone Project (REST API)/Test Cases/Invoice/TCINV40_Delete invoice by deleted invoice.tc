@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV40_Delete invoice by deleted invoice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>449c174b-d13a-4128-ae9a-705f8493b9e1</testCaseGuid>
+</TestCaseEntity>

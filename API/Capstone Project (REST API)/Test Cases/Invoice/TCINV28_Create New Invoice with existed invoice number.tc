@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV28_Create New Invoice with existed invoice number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cee93222-aedc-4479-b9dc-31041d02d1c3</testCaseGuid>
+</TestCaseEntity>

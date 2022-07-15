@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV16_Get list invoices by invalid status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5e9fddc-5e22-4cda-84eb-33a6f021103e</testCaseGuid>
+</TestCaseEntity>

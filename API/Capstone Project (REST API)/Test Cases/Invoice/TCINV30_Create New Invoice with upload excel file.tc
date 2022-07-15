@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV30_Create New Invoice with upload excel file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fa89889-04b9-4e14-9ade-f951ecc9ba1d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCUSRLIST3_Get list all user without token authorization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eac2b539-6312-4f2d-bb5f-cb14fae50b28</testCaseGuid>
+</TestCaseEntity>

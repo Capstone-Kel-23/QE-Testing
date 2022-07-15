@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequest(findTestObject('Authorization/Login/Login with empty email'))
+response = WS.sendRequest(findTestObject('Authorization/Login/Login with empty email'))
 
-WS.verifyElementPropertyValue(response, 'code', '401')
+WS.verifyElementPropertyValue(response, 'code', 401)
 
 WS.verifyElementPropertyValue(response, 'status', 'false')
 

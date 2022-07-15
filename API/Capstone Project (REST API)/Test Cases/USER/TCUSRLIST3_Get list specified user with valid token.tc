@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TCUSRLIST3_Get list specified user with valid token</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>28bba15d-4c30-40a8-96b4-3be25d688b11</testCaseGuid>
-</TestCaseEntity>

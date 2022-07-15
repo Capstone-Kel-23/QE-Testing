@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TCVERIF4_Send Verification with invalid email</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ce2a7760-443f-467a-b9c6-fb220874be78</testCaseGuid>
-</TestCaseEntity>

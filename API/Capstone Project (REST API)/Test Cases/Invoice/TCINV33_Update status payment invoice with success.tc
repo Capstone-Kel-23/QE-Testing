@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV33_Update status payment invoice with success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f142cf30-39d7-42bb-8ff1-61b51d85b7f0</testCaseGuid>
+</TestCaseEntity>

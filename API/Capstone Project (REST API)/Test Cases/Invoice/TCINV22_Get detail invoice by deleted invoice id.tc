@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV22_Get detail invoice by deleted invoice id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ec0ba39-a5ce-4869-ac4f-609c5099ae28</testCaseGuid>
+</TestCaseEntity>

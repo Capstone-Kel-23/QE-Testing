@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCPROF2_ Get detail profile by id with another menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d969bde8-62a6-42cd-aed4-53c64f6702fb</testCaseGuid>
+</TestCaseEntity>

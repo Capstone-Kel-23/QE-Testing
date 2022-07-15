@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV27_Create New Invoice with wrong email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab9de3de-c742-4556-a076-c6a3f0fdaa37</testCaseGuid>
+</TestCaseEntity>

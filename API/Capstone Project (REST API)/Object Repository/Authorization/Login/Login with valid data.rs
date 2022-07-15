@@ -6,7 +6,7 @@
    <elementGuidId>01cdd61d-0867-4b4a-9876-9d08c8c57c0e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <connectionTimeout>0</connectionTimeout>
+   <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
@@ -24,17 +24,17 @@
       <webElementGuid>beefa950-343d-4d29-b066-69a7909f9ebc</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.3.0</katalonVersion>
-   <maxResponseSize>0</maxResponseSize>
+   <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://103.176.79.65:8080/api/v1/login</restUrl>
+   <restUrl>http://prodapi.tagihin.my.id/api/v1/login</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>0</socketTimeout>
+   <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 

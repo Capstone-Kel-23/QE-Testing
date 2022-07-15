@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV24_Create New Invoice with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57402704-608a-4d56-9290-5281235dc648</testCaseGuid>
+</TestCaseEntity>

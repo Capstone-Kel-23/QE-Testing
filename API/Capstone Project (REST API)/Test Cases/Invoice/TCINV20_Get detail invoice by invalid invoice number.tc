@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV20_Get detail invoice by invalid invoice number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c1e930a-0a07-4fb6-bd06-23bec2fcbcc2</testCaseGuid>
+</TestCaseEntity>

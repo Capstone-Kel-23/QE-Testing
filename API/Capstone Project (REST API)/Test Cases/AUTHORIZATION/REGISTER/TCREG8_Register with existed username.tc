@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCREG8_Register with existed username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc7b79c6-16de-42fb-9538-7305103680d9</testCaseGuid>
+</TestCaseEntity>

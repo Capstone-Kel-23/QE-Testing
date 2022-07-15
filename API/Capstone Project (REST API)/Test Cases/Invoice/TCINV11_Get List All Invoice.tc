@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV11_Get List All Invoice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccac5334-adf3-4e64-bac5-450eb3bdf875</testCaseGuid>
+</TestCaseEntity>

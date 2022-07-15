@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequest(findTestObject('Authorization/Login/Login with empty data'))
+response = WS.sendRequest(findTestObject('Authorization/Login/Login with empty data'))
 
-WS.verifyElementPropertyValue(response, 'data.code', 410)
+WS.verifyElementPropertyValue(response, 'code', 401)
 
-WS.verifyElementPropertyValue(response, 'data.status', 'false')
+WS.verifyElementPropertyValue(response, 'status', 'false')
 
-WS.verifyElementPropertyValue(response, 'data.message', 'user not found')
+WS.verifyElementPropertyValue(response, 'message', 'user not found')
 

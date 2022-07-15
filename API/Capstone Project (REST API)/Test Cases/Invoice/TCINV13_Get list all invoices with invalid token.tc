@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV13_Get list all invoices with invalid token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>900309f2-f9d3-4676-bf40-2acf391e811f</testCaseGuid>
+</TestCaseEntity>

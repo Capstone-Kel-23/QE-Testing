@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV12_Get list all invoices without token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06d6194c-81fc-498d-8eb5-99f0a9f77d32</testCaseGuid>
+</TestCaseEntity>

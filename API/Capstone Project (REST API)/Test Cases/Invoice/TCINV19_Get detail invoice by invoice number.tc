@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCINV19_Get detail invoice by invoice number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7e0d4c6-c344-48c2-af9e-6706180ac15d</testCaseGuid>
+</TestCaseEntity>

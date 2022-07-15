@@ -15,7 +15,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://103.176.79.65:8080/api/v1/users</restUrl>
+   <restUrl>http://prodapi.tagihin.my.id/api/v1/users</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -24,5 +24,26 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <verificationScript>import static org.assertj.core.api.Assertions.*
+
+import com.kms.katalon.core.testobject.RequestObject
+import com.kms.katalon.core.testobject.ResponseObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webservice.verification.WSResponseManager
+
+import groovy.json.JsonSlurper
+import internal.GlobalVariable as GlobalVariable
+
+RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
+
+ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
+
+
+WS.verifyResponseStatusCode(response, 401)
+
+assertThat(response.getStatusCode()).isEqualTo(401)
+
+
+assertThat(response.getResponseText()).contains('Token expired or invalid')</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

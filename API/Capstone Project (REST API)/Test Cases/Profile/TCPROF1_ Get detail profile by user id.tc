@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCPROF1_ Get detail profile by user id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>636a0165-d752-4a4d-946c-c82666313418</testCaseGuid>
+</TestCaseEntity>

@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+response = WS.sendRequest(findTestObject('User/Get All List Users with invalid token'))
+
+WS.verifyElementPropertyValue(response, 'status', false)
+
+WS.verifyElementPropertyValue(response, 'messages', 'Token expired or invalid')
+

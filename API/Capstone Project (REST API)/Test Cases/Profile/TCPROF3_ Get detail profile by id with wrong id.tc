@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCPROF3_ Get detail profile by id with wrong id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c904ca66-60a0-4b81-88ff-6fa89c613930</testCaseGuid>
+</TestCaseEntity>
