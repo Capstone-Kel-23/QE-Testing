@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Email tidak boleh kosong_v-icon notr_1e6175</name>
+   <tag></tag>
+   <elementGuidId>1970f16c-5ab4-4623-b3c9-71f07f1ab347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-icon.notranslate.v-icon--link.mdi.mdi-eye.theme--light.primary--text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>609f9f3b-a2fb-4915-a36e-ed6cf5dfd573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>397abfb2-f274-4db4-8748-d3d9bcb1cacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>append icon</value>
+      <webElementGuid>eedcf11d-1be9-42b5-bb2c-0a157a8693dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate v-icon--link mdi mdi-eye theme--light primary--text</value>
+      <webElementGuid>550cd1fc-50c1-4ef1-b778-c2f0e972dde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container fill-height container--fluid&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;pt-0 col-sm-10 col-md-8 col-lg-6 col&quot;]/div[@class=&quot;container mb-5&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input v-input--is-label-active v-input--is-dirty v-input--is-focused v-input--dense theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--is-booted v-text-field--enclosed v-text-field--placeholder primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot white&quot;]/div[@class=&quot;v-input__append-inner&quot;]/div[@class=&quot;v-input__icon v-input__icon--append&quot;]/button[@class=&quot;v-icon notranslate v-icon--link mdi mdi-eye theme--light primary--text&quot;]</value>
+      <webElementGuid>709261f2-5a97-457c-93bd-09fa6b0b1c44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>8d8efd1b-6e23-4ba1-a7d2-75e06850445d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[2]/div/div/div[3]/div/button</value>
+      <webElementGuid>64adb2ec-e303-4b7c-a586-504862011de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>de59e372-c955-4b6a-ba2d-f4019d09cdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>7646af5a-30de-491d-a373-0af35bf19a80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

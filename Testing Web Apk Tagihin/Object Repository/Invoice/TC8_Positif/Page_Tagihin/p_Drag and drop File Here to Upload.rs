@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Drag and drop File Here to Upload</name>
+   <tag></tag>
+   <elementGuidId>7aeb0446-071a-4740-9cf0-bcfa5df249c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-center.ma-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>96e4b34c-0cee-4e01-aa01-90a87b688b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center ma-0</value>
+      <webElementGuid>9fec016c-c5ea-468c-b7b2-e7f819b3aeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop File Here to Upload</value>
+      <webElementGuid>dbe3ff80-682d-4968-8a47-b941c64bdeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container import-file-dropzone rounded-xl&quot;]/p[@class=&quot;text-center ma-0&quot;]</value>
+      <webElementGuid>663f90e2-acf5-4c48-ba01-5fb46d0ebb93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>a6ad6b9c-7127-4830-97b6-d2c935de2e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::p[2]</value>
+      <webElementGuid>212fe44b-c695-45b8-adfb-b1aefe5e6d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::p[2]</value>
+      <webElementGuid>2b4d75ee-fd8d-41f8-8e7d-9bb6f7ef0e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Drag and drop File Here to Upload']/parent::*</value>
+      <webElementGuid>e3f3b6e1-de20-463f-8b46-3ffac1b49a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>8f5615b1-aac8-4628-b42c-2342e77be133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Drag and drop File Here to Upload' or . = 'Drag and drop File Here to Upload')]</value>
+      <webElementGuid>804397ec-5d3a-4995-9bf8-9ceb7a43bcdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

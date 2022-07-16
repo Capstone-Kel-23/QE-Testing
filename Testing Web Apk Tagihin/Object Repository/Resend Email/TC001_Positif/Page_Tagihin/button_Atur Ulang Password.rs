@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Atur Ulang Password</name>
+   <tag></tag>
+   <elementGuidId>dc9323ec-93e6-45b9-b564-285bd495c656</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mb-5.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>528f3042-ba27-4c5e-a7d2-e9e878cf34f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af393d9f-9138-40f1-aba6-6eb8c70da5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>316ed7e5-8c76-47e2-8f1d-e90f3d6ec202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atur Ulang Password</value>
+      <webElementGuid>9eadf8a1-a1ba-4381-a36b-c50d0417bc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container fill-height container--fluid&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;pt-0 col-sm-10 col-md-8 col-lg-6 col&quot;]/div[@class=&quot;container mb-5 bg-container pa-10&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col&quot;]/form[@class=&quot;v-form&quot;]/div[2]/button[@class=&quot;mb-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>73b40a9a-3a13-48ee-b997-fc97285ec5f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>3b1b0324-7a18-4ecd-a294-36155a52a190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/form/div[2]/button</value>
+      <webElementGuid>2dcfc33e-a4cc-4067-bd2f-21124f6b6d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
+      <webElementGuid>c5635a10-6d47-455b-afd5-a41159762068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atur Ulang Password']/parent::*</value>
+      <webElementGuid>a67f0199-a2aa-4f25-af76-ef412d78077a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>32715388-2d3f-43d4-89c0-9c975dd06963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Atur Ulang Password' or . = 'Atur Ulang Password')]</value>
+      <webElementGuid>885d0392-4a7b-4953-99c5-9a95dc48e5db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

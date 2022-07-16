@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_JAWA BARAT</name>
+   <tag></tag>
+   <elementGuidId>f850acf1-3fc5-4a0d-b713-6341271daf7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-list-item__mask</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-329-0']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e562a43d-63bf-493a-b04a-be692f702251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__mask</value>
+      <webElementGuid>106c3e8c-6736-4922-a9fb-ef21663181e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JAWA BARAT</value>
+      <webElementGuid>60108d6b-1911-4edd-a4e6-e25f03475d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-329-0&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]/span[@class=&quot;v-list-item__mask&quot;]</value>
+      <webElementGuid>0aa0c1db-9fbb-4618-bf3d-f72272b463bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-329-0']/div/div/span</value>
+      <webElementGuid>d6624353-2c65-4b7a-98db-d574758a6f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[6]</value>
+      <webElementGuid>a8b569e2-35fc-46d5-9d8b-dcbaadb3712b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark Paid'])[1]/following::span[6]</value>
+      <webElementGuid>f2ecd5ba-e993-4bcc-bf4a-bbba3213076b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JAWA BARAT']/parent::*</value>
+      <webElementGuid>1625578c-dbb8-480f-8652-95e117d188f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span</value>
+      <webElementGuid>b6ce9178-d11c-418b-af0b-07116bd9263a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'JAWA BARAT' or . = 'JAWA BARAT')]</value>
+      <webElementGuid>3809a3d2-1ed0-4868-ae83-adf33c285b49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

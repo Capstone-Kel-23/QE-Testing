@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Invoices</name>
+   <tag></tag>
+   <elementGuidId>25424653-d292-4e1d-882b-de7a7d1b2d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/nav/div/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>26c81578-46f0-4d9b-8705-4e585012d2b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/invoices</value>
+      <webElementGuid>145bd969-e3a5-49ee-a5af-36dcd03d8d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item v-list-item--link theme--dark</value>
+      <webElementGuid>e5e1b38b-cd06-4fb7-8116-8c9e869a8da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>17d3712f-9770-44ea-9656-98250e9fd4ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Invoices</value>
+      <webElementGuid>b6a7e33e-a46a-4cda-bc3d-2cc54664a6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--dark primary900&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;layout fill-height column justify-space-between&quot;]/div[@class=&quot;v-list v-sheet theme--dark&quot;]/a[@class=&quot;v-list-item v-list-item--link theme--dark&quot;]</value>
+      <webElementGuid>b4337efb-736d-459e-9361-4d1a4bff5f82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/nav/div/div/div/a[2]</value>
+      <webElementGuid>74c28d85-984b-405b-a315-5b12406cdd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dasboard'])[1]/following::a[1]</value>
+      <webElementGuid>136368c6-26de-4e84-91a5-e2c91733ef2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/preceding::a[1]</value>
+      <webElementGuid>909957ff-154a-457c-a376-0540e9c2d1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/invoices')]</value>
+      <webElementGuid>1e376845-44ac-427b-8ec9-860a169a6cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>b4678ff8-b5b7-41b6-b2b2-291ab68a3fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/invoices' and (text() = ' Invoices' or . = ' Invoices')]</value>
+      <webElementGuid>f12470a3-d46f-4cc5-9d58-68a14aa09e32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

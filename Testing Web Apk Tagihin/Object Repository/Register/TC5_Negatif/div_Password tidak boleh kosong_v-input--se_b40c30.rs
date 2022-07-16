@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password tidak boleh kosong_v-input--se_b40c30</name>
+   <tag></tag>
+   <elementGuidId>a7605e2a-2177-43b7-a60d-d98f2f0d970f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[5]/div/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input--selection-controls__ripple</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d45234a-811b-4eab-9e86-c463994eeed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input--selection-controls__ripple</value>
+      <webElementGuid>32ad19fb-745c-4b7f-a515-92e090337edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container fill-height container--fluid&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;pt-0 col-sm-10 col-md-8 col-lg-6 col&quot;]/div[@class=&quot;container mb-5&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-sm-12 col-md-10 col-lg-10 col px-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pa-0 col col-auto align-self-start&quot;]/div[@class=&quot;v-input ma-0 v-input--hide-details theme--light v-input--selection-controls v-input--checkbox&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-input--selection-controls__input&quot;]/div[@class=&quot;v-input--selection-controls__ripple&quot;]</value>
+      <webElementGuid>aa0928ce-a120-4cc6-8c8e-70bfafe3a033</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[5]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>4777bc15-731c-4728-bf9b-2977da20c169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password tidak boleh kosong!'])[2]/following::div[11]</value>
+      <webElementGuid>a3990202-e387-4570-a0fc-b302a3a89335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password tidak boleh kosong!'])[1]/following::div[21]</value>
+      <webElementGuid>1a40037d-caa5-418c-a66d-df6d310b572c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan, Kebijakan Privasi dan Disclaimer'])[1]/preceding::div[1]</value>
+      <webElementGuid>c02b2efb-e2b4-4a8b-bb45-887ff28cf484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR'])[1]/preceding::div[2]</value>
+      <webElementGuid>fb8d0c5b-b291-46a2-aab6-ebec02ef867e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>986bd564-8f0d-41ed-b69b-b58dd3c80ca4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

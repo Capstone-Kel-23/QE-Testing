@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email tidak valid_v-input--selection-co_079bf3</name>
+   <tag></tag>
+   <elementGuidId>01ec004c-164f-4777-8f87-6c92de5966b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input--selection-controls__ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[5]/div/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0db2749-f53e-43f4-8e26-2f56bf8c835c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input--selection-controls__ripple</value>
+      <webElementGuid>a07682a8-a34f-4506-a887-eaf368fd297c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container fill-height container--fluid&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;pt-0 col-sm-10 col-md-8 col-lg-6 col&quot;]/div[@class=&quot;container mb-5&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-sm-12 col-md-10 col-lg-10 col px-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pa-0 col col-auto align-self-start&quot;]/div[@class=&quot;v-input ma-0 v-input--hide-details theme--light v-input--selection-controls v-input--checkbox&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-input--selection-controls__input&quot;]/div[@class=&quot;v-input--selection-controls__ripple&quot;]</value>
+      <webElementGuid>c657a8ab-83b2-4f60-9696-cd4afaa0a5ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[5]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>db8266a0-baa5-4929-837e-a1c14f626fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email tidak valid'])[1]/following::div[29]</value>
+      <webElementGuid>c2ab5a86-e032-46f7-bbac-8fe56415de5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan, Kebijakan Privasi dan Disclaimer'])[1]/preceding::div[1]</value>
+      <webElementGuid>29598dcb-f571-4a4d-97ae-963bf7caf9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR'])[1]/preceding::div[2]</value>
+      <webElementGuid>2f83e7b0-d6da-41ea-b9ac-354a94cf60d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>bb72a7ba-8b7b-453f-8de7-42284bdae200</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

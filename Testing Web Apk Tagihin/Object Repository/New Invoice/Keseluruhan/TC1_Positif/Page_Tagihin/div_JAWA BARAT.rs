@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JAWA BARAT</name>
+   <tag></tag>
+   <elementGuidId>04210a33-1f82-4ee4-9d67-0c075a55176e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-461-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-461-0 > div.v-list-item__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3160092b-7a69-47de-a7c1-38ffc9edbb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>9801e9a0-19fc-4c32-adf8-2b101c665b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JAWA BARAT</value>
+      <webElementGuid>2904d691-327b-4547-8c13-cdf659e18547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-461-0&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>51b82e05-e940-42a7-ba3f-6d7c113a446f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-461-0']/div</value>
+      <webElementGuid>debdb125-4846-44c4-9b62-ee9938a73265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[9]</value>
+      <webElementGuid>636bb870-acac-4ee7-84b7-85c309f49b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark Paid'])[1]/following::div[9]</value>
+      <webElementGuid>ce874604-3298-4cca-8573-7d42f63e574b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-461-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>934e5faf-cfb4-4054-a4e8-1a68dabf6c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>04046491-bc05-45a9-bee8-6091a2353698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JAWA BARAT' or . = 'JAWA BARAT')]</value>
+      <webElementGuid>ca4e6676-4273-47f6-868a-2d852a96e792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

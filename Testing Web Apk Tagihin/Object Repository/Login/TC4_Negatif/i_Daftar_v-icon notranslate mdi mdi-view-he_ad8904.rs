@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Daftar_v-icon notranslate mdi mdi-view-he_ad8904</name>
+   <tag></tag>
+   <elementGuidId>d1a460b1-bc57-41a1-b15e-5ff18ab56796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-view-headline.theme--dark.white--text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/div/div/div[2]/button/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d76cc3cb-fbcc-4968-af54-58ddf503c296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>86875e54-801a-4b15-afdc-46b7f321151b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-view-headline theme--dark white--text</value>
+      <webElementGuid>b856d6d7-6f77-42b9-a090-0d534ad21dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/header[@class=&quot;v-sheet theme--light v-toolbar v-app-bar v-app-bar--fixed primary900&quot;]/div[@class=&quot;v-toolbar__content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-space-between&quot;]/div[@class=&quot;col col-auto align-self-center&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--dark v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-view-headline theme--dark white--text&quot;]</value>
+      <webElementGuid>58bb2737-5b5f-47cc-be66-78e9c944b313</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/div/div/div[2]/button/span/i</value>
+      <webElementGuid>d5e08926-4666-4a65-bbd2-026adc373b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>4b7c479e-dfd0-4708-a1ff-32c2487632ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

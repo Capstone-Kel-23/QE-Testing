@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Action_text-center</name>
+   <tag></tag>
+   <elementGuidId>d907b0f9-2ee6-4f2c-b74a-7b1bd77f4c48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>69656b05-5400-4e95-b19c-d4adfde19536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>56e216cd-14a3-46b4-9d8c-e0d37848db8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid main-content-bg fill-height align-start pa-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;container pa-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container pa-0 mt-3&quot;]/div[@class=&quot;v-data-table elevation-2 data-table-wrapper theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>33d62cd4-0fd0-454f-8ed7-7ef79288a121</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[7]</value>
+      <webElementGuid>d5a9e4e7-df4a-4624-896a-c7be8c9312db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[7]</value>
+      <webElementGuid>34d46277-1557-4cea-ae7b-261aa5fbd4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Pos'])[1]/following::td[7]</value>
+      <webElementGuid>f9534e0e-8a7a-406c-a864-086a94bfd07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>77cd6f13-c3aa-462e-8aa4-cf689c2625a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

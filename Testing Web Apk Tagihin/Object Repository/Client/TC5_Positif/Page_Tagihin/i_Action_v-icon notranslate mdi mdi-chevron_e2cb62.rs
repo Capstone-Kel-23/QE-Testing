@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_v-icon notranslate mdi mdi-chevron_e2cb62</name>
+   <tag></tag>
+   <elementGuidId>97f87708-123a-4b93-b71f-7037957c3ad2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[3]/div/div/div/div/div[2]/nav/ul/li[8]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-chevron-right.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f5d19b8a-3102-41b2-b9ba-e76645dce9ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a56ce490-1dfa-47bd-8aea-ce6160e39473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-chevron-right theme--light</value>
+      <webElementGuid>0e2f314b-8da8-41d8-a247-6016a71cef52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid main-content-bg fill-height align-start pa-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;container pa-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container pa-0 mt-3&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-space-between&quot;]/div[@class=&quot;col col-auto&quot;]/div[@class=&quot;container px-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;px-0 col&quot;]/nav[@class=&quot;pagination-wrapper&quot;]/ul[@class=&quot;v-pagination theme--light&quot;]/li[8]/button[@class=&quot;v-pagination__navigation&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-chevron-right theme--light&quot;]</value>
+      <webElementGuid>ca8d2156-086d-4a48-b04a-faa96ec17f28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[3]/div/div/div/div/div[2]/nav/ul/li[8]/button/i</value>
+      <webElementGuid>7c01ac42-b064-45a1-a55c-60e2f6fc336a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/button/i</value>
+      <webElementGuid>a108fb4e-6fec-444a-a885-3c013c5e6ec1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

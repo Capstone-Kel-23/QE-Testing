@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KABUPATEN SIMEULUE</name>
+   <tag></tag>
+   <elementGuidId>903a32fa-2776-40c2-a304-78e8c15f1efc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-522-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-522-0 > div.v-list-item__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3aa60f7-5784-4857-9911-763e94c5f50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>2fc0abca-fec1-4522-ba49-7ab6e62e0d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KABUPATEN SIMEULUE</value>
+      <webElementGuid>2d59bc78-b318-4560-9e48-bfe1a84223dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-522-0&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>79591d6e-6c88-4cd1-9a02-818dd0fa25cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-522-0']/div</value>
+      <webElementGuid>6894b8dd-569c-4597-803f-2b543674db80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KALIMANTAN BARAT'])[1]/following::div[4]</value>
+      <webElementGuid>2178ca83-67dd-44d7-9e56-1e70a40c8f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUSA TENGGARA TIMUR'])[1]/following::div[7]</value>
+      <webElementGuid>267f79bb-e75e-4884-a440-3f6a67b33a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-522-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>854e6b67-047a-4d5e-a00e-bbbf5346f86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>24fb3042-f7d4-44fa-80e2-02b516d5f7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KABUPATEN SIMEULUE' or . = 'KABUPATEN SIMEULUE')]</value>
+      <webElementGuid>2caad986-21b7-449b-a715-810408912075</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

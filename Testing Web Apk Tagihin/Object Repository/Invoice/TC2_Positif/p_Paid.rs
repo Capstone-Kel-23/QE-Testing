@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Paid</name>
+   <tag></tag>
+   <elementGuidId>2afe020d-a686-41b9-a701-3c7b02adee5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.tab-list-category.text-center.ma-0.unselected-category</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div[2]/div/div[2]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bcfa1af7-56e6-4318-92eb-9bf09a400eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-list-category text-center ma-0 unselected-category</value>
+      <webElementGuid>5cf9c36d-ee4b-4395-bd0e-bc2aa483c652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paid</value>
+      <webElementGuid>2642181f-c8e9-46c8-b4b4-2796858272fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid main-content-bg fill-height align-start pa-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;container pa-0 mt-3&quot;]/div[@class=&quot;container px-0 pt-0&quot;]/div[@class=&quot;container mt-3&quot;]/div[@class=&quot;row justify-space-around&quot;]/div[@class=&quot;col col-3 tab-catagory-wrapper  pb-1&quot;]/p[@class=&quot;tab-list-category text-center ma-0 unselected-category&quot;]</value>
+      <webElementGuid>ba07d1a6-f404-4829-bd83-3f10fa5c2622</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div[2]/div/div[2]/div/div[2]/p</value>
+      <webElementGuid>db07dc3c-4814-4cbf-a130-f82cf120adb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::p[2]</value>
+      <webElementGuid>9888428c-b116-4a37-b61b-8d560b4392a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::p[4]</value>
+      <webElementGuid>f40dc76d-b49b-46a4-8ad6-a8729d39e975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unpaid'])[2]/preceding::p[5]</value>
+      <webElementGuid>d8794220-e50b-4258-9646-6d586046cc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unpaid'])[3]/preceding::p[8]</value>
+      <webElementGuid>541f9b3a-1bd1-40cf-ae53-822156698c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Paid']/parent::*</value>
+      <webElementGuid>d206a293-4798-4d8b-b400-8d03505a0434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/p</value>
+      <webElementGuid>b3a49ead-11c6-4109-8719-b136b1a14eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Paid' or . = 'Paid')]</value>
+      <webElementGuid>adf9060e-2fc1-4114-ab9c-3f00e2da5d49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

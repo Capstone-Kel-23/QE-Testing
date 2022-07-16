@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KOTA BANDUNG</name>
+   <tag></tag>
+   <elementGuidId>eaf86080-458b-45e9-816f-136ba5d14e5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-577-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-577-0 > div.v-list-item__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e8b12e6-760c-44b6-bf92-ab2318fd216a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>84b202b9-d9e1-4d2d-a68f-09eac6ee4900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTA BANDUNG</value>
+      <webElementGuid>f2ddeebe-8526-43e4-bb37-5f630d5e2955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-577-0&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>ef69663b-f07f-4726-bb09-b724cd27c3b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-577-0']/div</value>
+      <webElementGuid>89570a9b-d38a-4e13-9028-4a7c0eb6cc43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KALIMANTAN BARAT'])[1]/following::div[4]</value>
+      <webElementGuid>a5685025-b621-4a3d-81a3-09d02a9711bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUSA TENGGARA TIMUR'])[1]/following::div[7]</value>
+      <webElementGuid>9689c08d-35dc-4f37-b96f-df3923284e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-577-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>929228bf-fa6e-4ef4-bd11-3448d78bd635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>4474f434-64e7-424d-8351-5b2398fce2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KOTA BANDUNG' or . = 'KOTA BANDUNG')]</value>
+      <webElementGuid>459a59a3-15b2-419d-984a-a1de67750f86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

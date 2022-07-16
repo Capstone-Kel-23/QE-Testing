@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TEUPAH SELATAN</name>
+   <tag></tag>
+   <elementGuidId>bd5d40ae-c3b9-4de1-ba7f-893097e425eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-564-0']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-564-0 > div.v-list-item__content > div.v-list-item__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bb9f3fd-50a2-45bf-9f29-2d5f994b0e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__title</value>
+      <webElementGuid>56b036ff-3a64-48d8-9e7b-639585f9d99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TEUPAH SELATAN</value>
+      <webElementGuid>ede90a41-af09-46af-8ab3-610ff983f357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-564-0&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>517cb1d5-b614-4691-8743-61c301c710b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-564-0']/div/div</value>
+      <webElementGuid>f04ff09f-a2c3-4494-9ec2-4585d94a3ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA SABANG'])[1]/following::div[5]</value>
+      <webElementGuid>30bbff84-dff1-4ee7-8458-d449c062b6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BANDA ACEH'])[1]/following::div[8]</value>
+      <webElementGuid>0fb7596b-1f6f-442e-af01-5fcc643b6cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMEULUE TIMUR'])[1]/preceding::div[1]</value>
+      <webElementGuid>805d74d4-b886-480f-a9d2-a58e29ea5fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEUPAH BARAT'])[1]/preceding::div[4]</value>
+      <webElementGuid>c3a185ba-f9bf-4431-aa0e-bf1d08370a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TEUPAH SELATAN']/parent::*</value>
+      <webElementGuid>18a39a22-5859-47a1-b75f-94ab459b3fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>84223926-ce5c-464b-a2d0-606c3be9bd80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TEUPAH SELATAN' or . = 'TEUPAH SELATAN')]</value>
+      <webElementGuid>f1d0931d-d558-4c10-bd36-11cedd02d955</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Action_btn-pagination elevation-2 pa-1 px-0</name>
+   <tag></tag>
+   <elementGuidId>f8034c5d-2b78-4bbf-9671-59bfef096d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[3]/div/div/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55effa0a-2fc2-403d-8f89-cf89814e3729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-pagination elevation-2 pa-1 px-0 </value>
+      <webElementGuid>8d8185fe-9e7b-4f45-9483-54e4603e8a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid main-content-bg fill-height align-start pa-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;container pa-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container pa-0 mt-3&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-space-between&quot;]/div[@class=&quot;col col-auto&quot;]/div[@class=&quot;container px-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;px-0 col align-self-center&quot;]/div[@class=&quot;btn-pagination elevation-2 pa-1 px-0&quot;]</value>
+      <webElementGuid>124f5f74-c946-49de-9613-bea952211503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[3]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>7a6ebafb-b8ba-4618-9e9f-ae757513d35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::div[60]</value>
+      <webElementGuid>b0db186c-8ab4-4263-9300-97f6b439fdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Pos'])[1]/following::div[60]</value>
+      <webElementGuid>bbf971af-20ed-4bdb-ac5f-d577664e2b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>252330e3-7380-405e-9fb2-727b4ac98059</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

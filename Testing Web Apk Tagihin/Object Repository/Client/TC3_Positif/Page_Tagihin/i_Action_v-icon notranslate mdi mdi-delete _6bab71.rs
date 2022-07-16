@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_v-icon notranslate mdi mdi-delete _6bab71</name>
+   <tag></tag>
+   <elementGuidId>98b5fbcd-010a-4dc2-8b14-62a8e15a8cd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[7]/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-delete.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c727290f-620a-4870-8783-bbbf5bbf4a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6376d233-2bee-4394-851b-ed6694ff9e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-delete theme--light</value>
+      <webElementGuid>79917d7e-5e75-4c69-a455-6e0f2df11dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid main-content-bg fill-height align-start pa-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;container pa-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container pa-0 mt-3&quot;]/div[@class=&quot;v-data-table elevation-2 data-table-wrapper theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-center&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--light v-size--small&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-delete theme--light&quot;]</value>
+      <webElementGuid>2924f8fc-ed14-4ea4-a6d8-4c36d31fd49d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[7]/button/span/i</value>
+      <webElementGuid>16a697d8-15fb-4e97-bd11-5d8bced4b660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/button/span/i</value>
+      <webElementGuid>e1c8117d-e7c3-429b-a138-d467d9e2025f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

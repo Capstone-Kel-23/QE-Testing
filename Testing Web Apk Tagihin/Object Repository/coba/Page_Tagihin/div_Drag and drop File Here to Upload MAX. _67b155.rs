@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag and drop File Here to Upload MAX. _67b155</name>
+   <tag></tag>
+   <elementGuidId>584434de-fb42-49f6-bf0d-084b96c78889</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42171f36-ab0e-4f00-825c-d2dd7def7649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container import-file-dropzone rounded-xl </value>
+      <webElementGuid>c5debed5-85e4-437b-86d7-5881b4d1937b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Drag and drop File Here to Upload MAX. File Size : 10MB</value>
+      <webElementGuid>a9250e0e-d1f3-4b49-905e-032b8a465035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container import-file-dropzone rounded-xl&quot;]</value>
+      <webElementGuid>1c8c442d-d884-4157-be99-d8438c47b4e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div/div[2]/div</value>
+      <webElementGuid>17663f39-fb1a-4e80-b276-ca37e05db270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::div[16]</value>
+      <webElementGuid>002bfa23-ae5c-4b8d-9510-307aa5cb41ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::div[17]</value>
+      <webElementGuid>2d13f054-edcc-45e9-8511-a19c291c849f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div</value>
+      <webElementGuid>5e088c0d-ca4c-4def-b6eb-805e4f0f47b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Drag and drop File Here to Upload MAX. File Size : 10MB' or . = ' Drag and drop File Here to Upload MAX. File Size : 10MB')]</value>
+      <webElementGuid>13220192-22e8-480c-8858-8630d69a8506</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

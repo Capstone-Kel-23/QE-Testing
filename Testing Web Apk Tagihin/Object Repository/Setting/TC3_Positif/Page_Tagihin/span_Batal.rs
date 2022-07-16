@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Batal</name>
+   <tag></tag>
+   <elementGuidId>d4c23301-fb68-47c8-bca1-d5ec000f3a3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div[4]/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.red.white--text > span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ff6b064-4270-4cb4-a4fa-7d86f08550bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>8a25403a-b2a3-4546-9767-d14913f47c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Batal
+            </value>
+      <webElementGuid>f8ad49cb-8ecb-46f4-af1e-4c079bdc0188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;pa-5 card-border v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions mt-10&quot;]/div[@class=&quot;row justify-space-between&quot;]/div[@class=&quot;col col-auto&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default red white--text&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>7d4e50b0-715e-4319-a052-4bf3c50754fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div[4]/div/div[2]/button/span</value>
+      <webElementGuid>c1f41a91-3748-43d0-a26f-7785537ac9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/following::span[1]</value>
+      <webElementGuid>14584a81-b3b9-478a-8336-5addfbda0260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mei'])[4]/following::span[2]</value>
+      <webElementGuid>2ec665e0-6c59-4047-b86d-9ea4d836a469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batal']/parent::*</value>
+      <webElementGuid>87b46a1c-3413-40e7-9df6-54045a0bd27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>35f728f6-2fbd-4437-9be1-b498090a10c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+              Batal
+            ' or . = '
+              Batal
+            ')]</value>
+      <webElementGuid>9140c9f4-e925-4484-90ee-3aaccb0455d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
