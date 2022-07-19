@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4ac4056f-a04a-413f-9be1-d949dc8e7e8e</webElementGuid>
+      <webElementGuid>ba4cba5c-dd33-4d73-b2ed-3fbdecd651b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,50 @@
       <name>id</name>
       <type>Main</type>
       <value>input-442</value>
-      <webElementGuid>b93bea54-85c5-4fb8-ac5c-85aff7769a8f</webElementGuid>
+      <webElementGuid>232ed915-6ef7-4a19-8b78-55dbebf898b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Item Name</value>
+      <webElementGuid>06291439-b667-4f83-a647-7ba512799754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9aab8364-22e3-4e5b-b2d3-e9a51af34336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-442&quot;)</value>
+      <webElementGuid>777e7518-996f-409e-ba6a-a82c68db6778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4ac4056f-a04a-413f-9be1-d949dc8e7e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-442</value>
+      <webElementGuid>b93bea54-85c5-4fb8-ac5c-85aff7769a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>8cf9ea8e-cf58-42d1-ad2c-6d458bc383fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -62,7 +102,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-442']</value>
-      <webElementGuid>057514c9-05f5-4efe-88d1-7805e52dfcb6</webElementGuid>
+      <webElementGuid>d6c0bfa3-1d5b-46bb-a247-bd9814be78be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/form/div[4]/div/div/table/tbody/tr/td/div/div/div/div/input</value>
+      <webElementGuid>421026e3-bca3-4fbe-b800-3ac4a258db87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/div/input</value>
+      <webElementGuid>df85a7b3-6553-435e-8134-739a6f8a6811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-442' and @placeholder = 'Enter Item Name' and @type = 'text']</value>
+      <webElementGuid>40c3600f-44ce-4978-8a9f-c169100e291d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

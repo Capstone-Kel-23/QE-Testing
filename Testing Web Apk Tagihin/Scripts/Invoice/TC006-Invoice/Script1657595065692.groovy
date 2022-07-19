@@ -26,13 +26,11 @@ WebUI.setText(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin
 WebUI.setEncryptedText(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
     'SSPrt73Z7T/CwLvb2YnTdg==')
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/a_Invoices'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/a_Tagihan'))
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/i_Action_v-icon notranslate mdi mdi-checkbo_247d5b'))
-
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/button_Export'))
+WebUI.verifyElementNotClickable(findTestObject('Object Repository/Invoice/TC6_Positif/Page_Tagihin/button_Ekspor'))
 
 WebUI.closeBrowser()
 

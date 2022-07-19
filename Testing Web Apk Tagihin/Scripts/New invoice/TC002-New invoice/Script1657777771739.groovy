@@ -69,7 +69,7 @@ WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC2_Negati
 
 WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC2_Negatif/Page_Tagihin/input__input-700'))
 
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/New Invoice/Keseluruhan/TC2_Negatif/Page_Tagihin/button_Save'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC2_Negatif/Page_Tagihin/button_Save'))
 
 WebUI.closeBrowser()
 

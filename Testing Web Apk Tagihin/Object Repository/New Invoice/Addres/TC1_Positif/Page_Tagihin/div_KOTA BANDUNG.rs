@@ -6,16 +6,48 @@
    <elementGuidId>b96e5662-8298-47c1-b7dc-227e7a70028a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#list-item-371-0 > div.v-list-item__content</value>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-527-0']/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='list-item-371-0']/div</value>
+         <key>CSS</key>
+         <value>#list-item-527-0 > div.v-list-item__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>599b6a53-d8f2-4f1b-a4b6-69ea74091e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>578a9105-92f8-45a8-8272-d39871cf561b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTA BANDUNG</value>
+      <webElementGuid>d09e9d31-045e-44f3-be83-ac20c02b53fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-527-0&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>060b16f4-7eb7-4416-a83c-4f255d47d3fa</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>e39a4d53-51f7-4417-badd-5dc4a7f8f41c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,6 +85,54 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='list-item-527-0']/div</value>
+      <webElementGuid>a7cd2548-e75b-4c3e-8645-b758cc9c3f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KALIMANTAN BARAT'])[1]/following::div[4]</value>
+      <webElementGuid>d6e9f545-bbb3-417b-bb6c-f5319c0d7d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUSA TENGGARA TIMUR'])[1]/following::div[7]</value>
+      <webElementGuid>e2efd5e6-3865-4eae-8a48-957b44da70e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-527-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>ca9573c0-ce9d-4afd-b625-a97339bf5e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>6b8e5291-1f0e-4459-9ceb-cc4fd6766a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KOTA BANDUNG' or . = 'KOTA BANDUNG')]</value>
+      <webElementGuid>50d2b536-05be-4bf7-9fe5-ba01e5c5a597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='list-item-371-0']/div</value>
       <webElementGuid>965c4ed7-998d-4f81-8d6d-4ec2e314fc6c</webElementGuid>
    </webElementXpaths>
@@ -61,39 +141,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='KALIMANTAN BARAT'])[1]/following::div[4]</value>
-      <webElementGuid>e3e582e5-2d9b-4610-b216-db3a4947f83d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUSA TENGGARA TIMUR'])[1]/following::div[7]</value>
-      <webElementGuid>77ab3033-a4a1-490d-adb7-71c04b163c3d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-371-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
       <webElementGuid>69ec62d3-6088-4e10-80d1-dc8f07f31917</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/div/div</value>
-      <webElementGuid>9e3364a1-1dc0-4952-af58-5b0ad9a9359b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'KOTA BANDUNG' or . = 'KOTA BANDUNG')]</value>
-      <webElementGuid>5db52802-ab21-46b2-bd56-ff50b7c51855</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

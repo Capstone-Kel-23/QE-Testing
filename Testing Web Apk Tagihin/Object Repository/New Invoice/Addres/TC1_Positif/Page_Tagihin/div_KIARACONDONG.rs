@@ -6,16 +6,48 @@
    <elementGuidId>e7cca910-eea0-4013-80ed-a49659657375</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#list-item-413-0 > div.v-list-item__content</value>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-569-0']/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='list-item-413-0']/div</value>
+         <key>CSS</key>
+         <value>#list-item-569-0 > div.v-list-item__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>215a79cf-7cc3-4ff5-9174-0b6c416e7690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>bbe67cab-f127-47ed-812d-9e465154e3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KIARACONDONG</value>
+      <webElementGuid>0c5a8f6b-a9d9-43a4-a40c-882d4276e367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-569-0&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>f41535d3-ff29-4c54-a05e-407ff0b5f63b</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>39b3ac33-1a28-4606-a6fe-e15d268b0e7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,6 +85,54 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='list-item-569-0']/div</value>
+      <webElementGuid>9e4d13d0-1ada-4204-8f31-756f18dbf8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA SUKABUMI'])[1]/following::div[4]</value>
+      <webElementGuid>95412a53-db27-48e1-b62c-9f8b5dd22772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BOGOR'])[1]/following::div[7]</value>
+      <webElementGuid>9d29755d-9b88-41c0-8bcc-d4eda64b0693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-569-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>3c7f7b33-5084-4075-aab3-2e0dd4c61ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>3508c0bd-621f-4c2d-9fa7-4a0866f9d28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KIARACONDONG' or . = 'KIARACONDONG')]</value>
+      <webElementGuid>da417f28-6e28-4973-a628-723a585b8c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='list-item-413-0']/div</value>
       <webElementGuid>acf31383-1d53-4aa3-a968-f9cb76bfe2b9</webElementGuid>
    </webElementXpaths>
@@ -61,39 +141,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA SUKABUMI'])[1]/following::div[4]</value>
-      <webElementGuid>14c0a104-8fb8-4532-8c3b-1dc05b0da7b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BOGOR'])[1]/following::div[7]</value>
-      <webElementGuid>8616bd35-403f-4916-9cfd-b04eb08c12cd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'list-item-413-0', '&quot;', ')/div[@class=', '&quot;', 'v-list-item__content', '&quot;', ']')])[1]/preceding::div[2]</value>
       <webElementGuid>8215557f-67e8-4ab2-bd25-4d0750569d2e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/div/div/div</value>
-      <webElementGuid>f94d853e-cf78-40c1-9bf2-55d9a18824a2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'KIARACONDONG' or . = 'KIARACONDONG')]</value>
-      <webElementGuid>6d3a6067-3fe8-42ff-babd-bdbeb2c913d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

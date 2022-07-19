@@ -19,22 +19,20 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://main--cool-empanada-e84275.netlify.app/dashboard/')
+WebUI.navigateToUrl('https://main--cool-empanada-e84275.netlify.app/login')
 
-WebUI.setText(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/input_Lupa Password_input-17'), 'Anpimedia2001@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Invoice/coba/Page_Tagihin/input_Lupa Password_input-17'), 'Anpimedia2001@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Invoice/coba/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
     'SSPrt73Z7T/CwLvb2YnTdg==')
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/Invoice/coba/Page_Tagihin/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/a_Invoices'))
+WebUI.click(findTestObject('Object Repository/Invoice/coba/Page_Tagihin/a_Tagihan'))
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/button_Import'))
+WebUI.click(findTestObject('Object Repository/Invoice/coba/Page_Tagihin/button_Impor'))
 
-WebUI.click(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/p_Drag and drop File Here to Upload'))
-
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/Invoice/TC8_Positif/Page_Tagihin/button_Submit'))
+WebUI.click(findTestObject('Invoice/coba/Page_Tagihin/p_Seret dan jatuhkan file di sini untuk Ung_46962b'))
 
 WebUI.closeBrowser()
 

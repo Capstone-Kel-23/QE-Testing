@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9e70ed64-727d-4fdc-8392-eae3bf8d3be2</webElementGuid>
+      <webElementGuid>6770f3a5-2173-4994-bb9f-65b757f1db05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-17</value>
-      <webElementGuid>ed06333c-cbff-4235-a6e4-5f8d92fe08be</webElementGuid>
+      <webElementGuid>de718cec-9854-426e-831a-7f8baafb96dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,50 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Email</value>
-      <webElementGuid>89258a8b-f5d2-46d9-8657-2d13fa95a839</webElementGuid>
+      <webElementGuid>d687f646-7cbb-4f46-9421-b563c14c6ea1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>67fa159f-619f-4421-a0c4-45a4362344cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-17&quot;)</value>
+      <webElementGuid>5880128b-a1e0-4699-82f8-5e49a15deb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9e70ed64-727d-4fdc-8392-eae3bf8d3be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-17</value>
+      <webElementGuid>ed06333c-cbff-4235-a6e4-5f8d92fe08be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Email</value>
+      <webElementGuid>89258a8b-f5d2-46d9-8657-2d13fa95a839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-17']</value>
-      <webElementGuid>963d1c8a-2268-473e-b94a-f668612ddcd6</webElementGuid>
+      <webElementGuid>ffb383cd-9944-4040-836b-b25c32d8d3f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/form/div/div/div/div[2]/input</value>
-      <webElementGuid>486ad9e1-8145-4cbf-97e8-23718986603b</webElementGuid>
+      <webElementGuid>13e35d07-55b0-4b24-a5f2-e730784d5fce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>3b9f92e8-7394-4288-bbec-7ae0052bd523</webElementGuid>
+      <webElementGuid>8f429b9a-b49f-4677-bc0b-882d96593cbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-17' and @placeholder = 'Masukkan Email' and @type = 'text']</value>
-      <webElementGuid>ef1d3dbb-7f08-4fd6-a848-90b622cb9e84</webElementGuid>
+      <webElementGuid>dc2323e2-873d-4110-a61a-52417c7c3106</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

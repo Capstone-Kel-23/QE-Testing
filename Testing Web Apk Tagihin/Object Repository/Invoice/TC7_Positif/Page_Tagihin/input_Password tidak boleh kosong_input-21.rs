@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0a27aa54-db20-4cd1-b97a-7ca43c323d0f</webElementGuid>
+      <webElementGuid>41aed725-c809-46c2-857f-1331d8b81892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-21</value>
-      <webElementGuid>9aac1781-f686-4c6a-9b19-b6c5f2250b17</webElementGuid>
+      <webElementGuid>443773b0-0b7c-49a1-8844-0cce47b7357f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,90 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Password</value>
-      <webElementGuid>7a893bc3-0a28-45dc-847b-0e74b98cb394</webElementGuid>
+      <webElementGuid>bbb9da5c-070d-4624-9622-37d74fd605b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>871a5fdb-87d2-4db4-ac59-5d05448fef98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-21&quot;)</value>
+      <webElementGuid>63d28fa0-7247-4164-9d36-27b460739715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cea1e6f7-577b-40d3-af74-ae7f08929321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-21</value>
+      <webElementGuid>1fe04757-a904-45cb-ad68-9d64b76c7dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Password</value>
+      <webElementGuid>0789725e-d013-41e9-934a-735a25117500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>4daeb6f5-e632-4bc3-b5bb-a4d0e84ad276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-21&quot;)</value>
+      <webElementGuid>0c370aaa-c74a-4991-aff6-e552c5dd60be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0a27aa54-db20-4cd1-b97a-7ca43c323d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-21</value>
+      <webElementGuid>9aac1781-f686-4c6a-9b19-b6c5f2250b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Password</value>
+      <webElementGuid>7a893bc3-0a28-45dc-847b-0e74b98cb394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-21']</value>
-      <webElementGuid>24a9a3bc-fe26-444f-aa97-dba286615fd6</webElementGuid>
+      <webElementGuid>0bac420f-4d89-4749-8500-78cd89717809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/form/div[2]/div/div/div[2]/input</value>
-      <webElementGuid>66409700-5b0a-4360-8d0d-e43da60dd3e4</webElementGuid>
+      <webElementGuid>386af392-b84b-4764-b878-a9dfd2d1e6fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/input</value>
-      <webElementGuid>b1d13ce1-9ae1-4656-a6c4-52731c41fc09</webElementGuid>
+      <webElementGuid>da91ef94-4505-4eec-88e0-d7e3bd43f65e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-21' and @placeholder = 'Masukkan Password' and @type = 'password']</value>
-      <webElementGuid>24ab49d0-ef27-44e4-b604-73853da03a97</webElementGuid>
+      <webElementGuid>947b0a1a-e87c-4b27-b962-1f6f2780450b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

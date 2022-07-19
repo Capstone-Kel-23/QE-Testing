@@ -21,24 +21,20 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://main--cool-empanada-e84275.netlify.app/dashboard/')
 
-WebUI.click(findTestObject('Object Repository/coba/Page_Tagihin/input_Lupa Password_input-17'))
+WebUI.setText(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/input_Lupa Password_input-17'), 'Anpimedia2001@gmail.com')
 
-WebUI.doubleClick(findTestObject('Object Repository/coba/Page_Tagihin/input_Lupa Password_input-17'))
-
-WebUI.setText(findTestObject('Object Repository/coba/Page_Tagihin/input_Lupa Password_input-17'), 'Anpimedia2001@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/coba/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
     'SSPrt73Z7T/CwLvb2YnTdg==')
 
-WebUI.click(findTestObject('Object Repository/coba/Page_Tagihin/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/coba/Page_Tagihin/a_Invoices'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/a_Invoices'))
 
-WebUI.click(findTestObject('Object Repository/coba/Page_Tagihin/button_Import'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/i_Unpaid_v-icon notranslate mdi mdi-dots-ve_d487b3'))
 
-WebUI.click(findTestObject('Object Repository/coba/Page_Tagihin/div_Drag and drop File Here to Upload MAX. _67b155'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/div_Hapus'))
 
-WebUI.click(findTestObject('Object Repository/coba/Page_Tagihin/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Invoice/TC9_Positif/Page_Tagihin/span_Ya'))
 
 WebUI.closeBrowser()
 

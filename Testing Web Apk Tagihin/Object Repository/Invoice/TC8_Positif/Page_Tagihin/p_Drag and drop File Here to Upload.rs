@@ -22,6 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
+      <webElementGuid>01299149-6ce3-47ed-83c4-bec1283db661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center ma-0</value>
+      <webElementGuid>0e89b68a-b3ed-40a0-979b-f2074f27da0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop File Here to Upload</value>
+      <webElementGuid>ba2e1d83-c76b-48f2-9c10-09cdf1bbb3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container import-file-dropzone rounded-xl&quot;]/p[@class=&quot;text-center ma-0&quot;]</value>
+      <webElementGuid>0c0a0526-8bf7-4803-9fc4-4d9d1713e282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>71fab43b-38b1-4a19-8a10-8db7ba2df664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center ma-0</value>
+      <webElementGuid>a90edfb4-a0f1-4f4a-ac87-f82982faeb63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop File Here to Upload</value>
+      <webElementGuid>12cb8d14-f687-4731-9f66-e3dc006665dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container import-file-dropzone rounded-xl&quot;]/p[@class=&quot;text-center ma-0&quot;]</value>
+      <webElementGuid>3d1b56cf-5780-4025-8766-e212054e9de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1b926113-81f0-46b2-b040-b4923e652c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center ma-0</value>
+      <webElementGuid>5412ad05-0481-4ac9-a8c3-014a7599da83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop File Here to Upload</value>
+      <webElementGuid>41f92823-ad58-43d0-9337-9f0aa265dce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container import-file-dropzone rounded-xl&quot;]/p[@class=&quot;text-center ma-0&quot;]</value>
+      <webElementGuid>ab615b98-f264-405d-90d0-218df817710e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
       <webElementGuid>96e4b34c-0cee-4e01-aa01-90a87b688b43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +129,7 @@
       <webElementGuid>9fec016c-c5ea-468c-b7b2-e7f819b3aeb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[3]/div/div/div/div[2]/div/p</value>
-      <webElementGuid>a6ad6b9c-7127-4830-97b6-d2c935de2e9a</webElementGuid>
+      <webElementGuid>58e0eb98-dc54-4572-bfa1-f47b8285315b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::p[2]</value>
-      <webElementGuid>212fe44b-c695-45b8-adfb-b1aefe5e6d48</webElementGuid>
+      <webElementGuid>ae2d2686-9927-49a2-823b-2cf6c4354190</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::p[2]</value>
-      <webElementGuid>2b4d75ee-fd8d-41f8-8e7d-9bb6f7ef0e4f</webElementGuid>
+      <webElementGuid>e9428221-9ea2-437e-a55d-992f08ad799f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Drag and drop File Here to Upload']/parent::*</value>
-      <webElementGuid>e3f3b6e1-de20-463f-8b46-3ffac1b49a84</webElementGuid>
+      <webElementGuid>28d405ba-1a22-4da5-889b-db018c7fd843</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div[2]/div/p</value>
-      <webElementGuid>8f5615b1-aac8-4628-b42c-2342e77be133</webElementGuid>
+      <webElementGuid>93a7646a-d7bd-4d42-a9eb-b7e59ea7545f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +190,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Drag and drop File Here to Upload' or . = 'Drag and drop File Here to Upload')]</value>
-      <webElementGuid>804397ec-5d3a-4995-9bf8-9ceb7a43bcdd</webElementGuid>
+      <webElementGuid>1684ea4e-693e-47c0-b2d5-1d267fee7b7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

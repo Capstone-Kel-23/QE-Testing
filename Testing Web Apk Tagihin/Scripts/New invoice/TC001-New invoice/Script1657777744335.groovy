@@ -21,78 +21,65 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://main--cool-empanada-e84275.netlify.app/dashboard/')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input_Lupa Password_input-17'), 'Anpimedia2001@gmail.com')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input_Lupa Password_input-17'), 
+    'Anpimedia2001@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_Lupa Password_v-input__slot white'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input_Password tidak boleh kosong_input-21'), 
     'SSPrt73Z7T/CwLvb2YnTdg==')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/a_Invoices'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/a_Invoices'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/a_Add New'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/a_Add New'))
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-332'), 'Pemana Jaya')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-340'), 'Anggita')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-336'), 'Referensi buku')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-344'), 'buku ')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/p_Drop files here to upload'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/div_Drop files here to upload Logo tidak bo_649b0d'))
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-352'), 'Surya')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-360'), 'Anggita')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-356'), 'Permana')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-364'), 'Aprilia200')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-360'), 'Anggitaaprilia2001@gmail.com')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-368'), 'anggitaaprilia20001@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-364'), '0864834954534')
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-372'), '09865776')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-369'), 'jawa barat')
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-377'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_JAWA BARAT'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/div_JAMBI'))
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-375'), 'kota bandung')
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-383'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_KOTA BANDUNG'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/div_KABUPATEN MERANGIN'))
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-381'), 'lengkong')
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-389'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_LENGKONG'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/div_MUARA SIAU'))
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-393'), '45726')
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-395'))
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/textarea__input-397'), 'jl desa')
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/div_LUBUK BIRAH'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_Change Profile Picture'))
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-401'), '56456456464')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-409'))
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/textarea__input-405'), 
+    'jln desa1')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/button_16'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/div_Change Profile Picture'))
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/button_SAVE'))
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-428'), '123')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-415'))
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input__input-442'), 'baju')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/button_19'))
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/textarea__input-445'), 
+    'baju anak')
 
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/button_SAVE'))
+WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/input_Rp_input-452'), '35.000')
 
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-420'), '001')
-
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_Cash'))
-
-WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/div_Online'))
-
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-436'), 'buku')
-
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/textarea__input-439'), 'Referensi anak')
-
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input__input-442'), '1')
-
-WebUI.setText(findTestObject('Object Repository/New Invoice/Keseluruhan/Page_Tagihin/input_Rp_input-446'), '10.000')
-
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/New Invoice/Keseluruhan/TC2_Negatif/Page_Tagihin/button_Save'))
+WebUI.click(findTestObject('Object Repository/New Invoice/Keseluruhan/TC1_Positif/Page_Tagihin/button_SAVE'))
 
 WebUI.closeBrowser()
 

@@ -12,21 +12,21 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>b0dd8d0b-2f0b-431e-a112-ce38c1409d32</testSuiteGuid>
    <testCaseLink>
-      <guid>e82dcc9e-559d-494c-9df3-e045a9e34fd9</guid>
+      <guid>236d39b0-70b6-4bad-a95a-e47c884f4e0b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/New invoice/TC001-New invoice</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1f742329-c2b3-484a-bea0-b0bb9985b798</guid>
+      <guid>7416415d-ccda-4af0-9b7d-a85421467816</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/New invoice/TC002-New invoice</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4f26b5ec-c16c-4107-a4f0-cc0197cfb0f0</guid>
+      <guid>b2c3e6ab-b36f-470d-bced-faee19cdf89b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/New invoice/TC003-New Invoice</testCaseId>

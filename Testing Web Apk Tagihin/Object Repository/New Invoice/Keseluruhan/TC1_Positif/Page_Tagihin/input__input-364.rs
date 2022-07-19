@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ebf3ead4-dd78-49b3-9dbf-b04949893bcb</webElementGuid>
+      <webElementGuid>6ac43f8d-5e1c-43f2-b861-55d411dbdbcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,50 @@
       <name>id</name>
       <type>Main</type>
       <value>input-364</value>
-      <webElementGuid>ddea60c9-ca43-4b33-9a9f-588a41abc101</webElementGuid>
+      <webElementGuid>f3ce5977-7bff-4dd9-9590-d90f3da54df9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Last Name</value>
+      <webElementGuid>8952313f-5133-400c-a3ee-49b87c27560f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b6532541-57a7-4b1c-8ba1-da568de2dc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-364&quot;)</value>
+      <webElementGuid>050040ad-03d0-42c2-8405-1bbbbc4a57fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ebf3ead4-dd78-49b3-9dbf-b04949893bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-364</value>
+      <webElementGuid>ddea60c9-ca43-4b33-9a9f-588a41abc101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>14aad637-1f09-4f04-9fe7-0e17533ccef8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -62,7 +102,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-364']</value>
-      <webElementGuid>8f24a48f-d674-4b6e-9d01-b38ebb703aaa</webElementGuid>
+      <webElementGuid>e069310e-eaed-4acf-8e9b-c403c045f96f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/form/div[2]/div/div/div/div[2]/div/div/div/input</value>
+      <webElementGuid>5b8caf16-83d3-4e93-a25c-d2fbc7b249e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/input</value>
+      <webElementGuid>06cbe01b-17cd-4c4b-8c28-3a704937a0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-364' and @placeholder = 'Enter Last Name' and @type = 'text']</value>
+      <webElementGuid>9165efc5-b4d7-4fd2-bf3f-20e02234932e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

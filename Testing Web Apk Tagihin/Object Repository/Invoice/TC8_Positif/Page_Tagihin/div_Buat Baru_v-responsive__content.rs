@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buat Baru_v-responsive__content</name>
+   <tag></tag>
+   <elementGuidId>0dbdc17e-f6a9-4447-8488-bfb0af6efee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[4]/div/div/div/div[2]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-image.v-responsive.mx-auto.mt-5.theme--light > div.v-responsive__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6bc13a2-5ed4-4997-9b88-c20c965dbfac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-responsive__content</value>
+      <webElementGuid>52a22477-c94b-4eef-87f9-5ceb9ce81a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;pa-5&quot;]/div[@class=&quot;container import-file-dropzone rounded-xl&quot;]/div[@class=&quot;v-image v-responsive mx-auto mt-5 theme--light&quot;]/div[@class=&quot;v-responsive__content&quot;]</value>
+      <webElementGuid>e2d81923-4217-4ac5-8d9d-a2dcd7a80072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[4]/div/div/div/div[2]/div/div/div[3]</value>
+      <webElementGuid>af9dfa1c-12c4-40d0-8ed7-75a7af88896b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div/div[3]</value>
+      <webElementGuid>e9854bca-003b-43c4-9d1b-89c9706013fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

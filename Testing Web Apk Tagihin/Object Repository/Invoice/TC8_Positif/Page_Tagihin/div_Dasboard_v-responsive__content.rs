@@ -11,11 +11,35 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.active-menu-side-bar.v-list-item--active.v-list-item.v-list-item--link.theme--dark > div.v-list-item__action > div.v-image.v-responsive.theme--dark > div.v-responsive__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3e8c818-b925-47ae-bc6d-7c4da82adfe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-responsive__content</value>
+      <webElementGuid>c4dbf8c7-ae09-4748-9c0e-f33752ef7369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--dark primary900&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;layout fill-height column justify-space-between&quot;]/div[@class=&quot;v-list v-sheet theme--dark&quot;]/a[@class=&quot;active-menu-side-bar v-list-item--active v-list-item v-list-item--link theme--dark&quot;]/div[@class=&quot;v-list-item__action&quot;]/div[@class=&quot;v-image v-responsive theme--dark&quot;]/div[@class=&quot;v-responsive__content&quot;]</value>
+      <webElementGuid>619e8f09-99bc-4df1-8222-8fb141f251dd</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +57,7 @@
       <webElementGuid>e851207c-e755-49b4-80f8-e82b1abdf90b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/nav/div/div/div/a[2]/div/div/div[3]</value>
-      <webElementGuid>1d8998df-ba35-48ff-8758-8f85bef2e21a</webElementGuid>
+      <webElementGuid>a7e64fed-867a-42d4-8962-63f0168a9b72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div/div/div[3]</value>
-      <webElementGuid>989b6712-c181-45cb-a45b-c217f1630662</webElementGuid>
+      <webElementGuid>5528176b-9b4c-42a3-9594-4583d941a54f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

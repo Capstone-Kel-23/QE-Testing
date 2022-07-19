@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[27]</value>
+         <value>(//button[@type='button'])[28]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,10 +22,290 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c60bf0be-cbbb-4009-a78d-91fcae70439c</webElementGuid>
+      <webElementGuid>7badb559-c490-4067-9d7f-46a47ee6bddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f8eca2ba-3456-4738-96a3-5d62f71869a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>10f11db2-5887-432f-ba93-19bb0a0773d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>a81bbb38-5273-4954-9a59-dc06c16d834c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>e8df7b97-fb05-42e8-853a-ef793f226f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9253f7c-3aeb-47fd-ac6c-9bff46a03f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b4e29ad-81ea-49d2-b6ad-59da0bed522b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>5b30c0b1-b86c-451a-9ba2-d693df676841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>8e923cf3-e71d-442e-b6ef-ba2dee9cb27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;pa-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>823219eb-fd5b-4df2-ad9f-2741075ca000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>16f3c43c-2605-417f-b06a-e7d1cf7e75e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd3d74df-b077-483a-a449-3e8c578f3030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>45d62198-58a7-4688-b44a-c04309116d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>322f06fc-4827-4858-80c8-5884da40caf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;pa-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>95b26655-2930-47bb-aa07-2dca7e69db57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d5e0325-a4e1-409f-85d1-aab419c5aed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fdd9cb1b-fca2-43cb-93c9-d5f27665c165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>38da8ac2-9706-4980-b709-0631fee67765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>9fdaf8bc-4c46-435e-8ff0-21116c8e8c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>7af9ddb8-e15e-44f9-9e5a-093c525c9da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>284626d4-17e9-4a89-9e68-1a2c57783f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f949814d-8b49-4818-b677-d323aec09ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>d4609305-59f0-4ca3-bce3-f82f028259cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>bf2401a6-e1f5-420e-b1cb-281e69413794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>370520c6-8544-4958-9075-7584ae60f06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ec604844-b55e-4be4-b240-d0f0916c4dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>36b79e3d-6140-45cc-af35-42ba1379356c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>10f25712-5cad-4c1c-ae54-973b6f621492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>c749e0c2-d41f-4269-b21b-73d84ca6a8d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>7e60b5a1-558e-43bc-9774-df2b206ef45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c18d6b25-0659-4c05-b529-be7024d07886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c57c5958-56e0-47d1-aa76-bb20c357191b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>25cb8e3a-04e8-4e41-95a5-2b8172a4bd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>c414cb36-5518-4411-9ccf-166ab11126bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;container px-0 container--fluid&quot;]/div[@class=&quot;px-15 py-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-end&quot;]/button[@class=&quot;mt-5 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
+      <webElementGuid>37090f8b-edb3-4027-98bd-df86ae5e9148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c60bf0be-cbbb-4009-a78d-91fcae70439c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +321,7 @@
       <webElementGuid>abfdc095-e270-4022-b523-4fd964e4fc05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -61,16 +341,16 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[27]</value>
-      <webElementGuid>a802ee1b-8ea2-4923-80ae-a670e336c22b</webElementGuid>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>38ad976f-6272-4a77-9636-e4548daa3ddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[3]/div/div/div/div[2]/div[3]/div/button</value>
-      <webElementGuid>5707f67b-3bbc-4593-b37f-1d118feccfbf</webElementGuid>
+      <value>//div[@id='app']/div[3]/div/div/div/div[2]/div[4]/div/button</value>
+      <webElementGuid>85320a73-48f2-4526-a64a-f12e5539e886</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +358,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::button[3]</value>
-      <webElementGuid>abddfa25-619d-4fca-81a8-ec0ebfa8d574</webElementGuid>
+      <webElementGuid>dcbb082b-188e-4568-8ba1-12fb8140a21f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +366,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::button[4]</value>
-      <webElementGuid>524e2d7d-fc99-4876-b4f9-dd64e1d50d9c</webElementGuid>
+      <webElementGuid>39acb5e2-9aff-4e08-b00e-5f34da3741fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +374,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>5f2345db-b280-4991-afdb-1eb65b84bc7f</webElementGuid>
+      <webElementGuid>4a7bc7b2-5747-4ff3-81f4-5ef4be8223dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/button</value>
-      <webElementGuid>4694a9fe-334a-4f88-9ab3-d3787adb8465</webElementGuid>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>6e979653-4fa9-49fe-842c-af8d6d44c8be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +390,62 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>993a72d2-7a89-4c26-8cf3-32c381736a2b</webElementGuid>
+      <webElementGuid>a7c8c7d3-a922-470b-8185-8b3ed698c0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>b49afdab-01d1-43a9-9379-9d293637fc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[4]/div/div/div/div[2]/div[4]/div/button</value>
+      <webElementGuid>63ed5e03-13cd-4862-917f-75c624c51317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Baru'])[1]/following::button[3]</value>
+      <webElementGuid>8bc51490-3ced-40d3-928f-df53a6d88291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impor'])[1]/following::button[3]</value>
+      <webElementGuid>92aa0057-8e6c-4d74-ae7e-6e0e2c9ec7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[27]</value>
+      <webElementGuid>0cf3f5c8-2e05-4a62-ba72-c120e35e62a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div/div[2]/div[3]/div/button</value>
+      <webElementGuid>be912871-5495-4e29-9b36-3a941dc95a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>443fcee6-03ae-4070-92fd-3fd8ab983d36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
